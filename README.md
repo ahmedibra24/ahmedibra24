@@ -7,21 +7,22 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px" />
+</p>
 
-<br>
+<p>
+I'm a Full-Stack Developer specialized in <strong>Laravel</strong>, <strong>React</strong>, and <strong>Next.js</strong>, building high-performance web applications that help businesses grow and succeed.<br><br>
+With <strong>4 years of experience in digital marketing</strong>, I combine technical skills with business strategy to create solutions that are not only functional but also optimized for growth and conversions.<br><br>
+💡 <strong>What I do:</strong><br>
+- Develop scalable and maintainable web apps<br>
+- Build <strong>eCommerce</strong> and marketing-oriented platforms<br>
+- Integrate <strong>data-driven marketing strategies</strong> into web solutions<br>
+- Optimize websites for <strong>performance and conversions</strong><br><br>
 
-I'm a Full-Stack Developer specialized in **Laravel**, **React**, and **Next.js**, building high-performance web applications that help businesses grow and succeed.  
+I'm always looking for opportunities to collaborate on exciting projects and help businesses grow through smart technology solutions.
+</p>
 
-With **4 years of experience in digital marketing**, I combine technical skills with business strategy to create solutions that are not only functional but also optimized for growth and conversions.  
-
-💡 **What I do:**  
-- Develop scalable and maintainable web apps  
-- Build **eCommerce** and marketing-oriented platforms  
-- Integrate **data-driven marketing strategies** into web solutions  
-- Optimize websites for **performance and conversions**
-  
-I'm always looking for opportunities to collaborate on exciting projects and help businesses grow through smart technology solutions.  
 
 <!--- stats & Trophy (start) -->
 <p align="center">
