@@ -11,14 +11,17 @@
 
 <br>
 
-- 🔭 I’m currently working on [job board application](https://github.com/ahmedibra24/job_backoffice_sha8lni.git)
+I'm a Full-Stack Developer specialized in **Laravel**, **React**, and **Next.js**, building high-performance web applications that help businesses grow and succeed.  
 
-- 🌱 I’m currently learning **CI/CD - payment getaways - testing**
+With **4 years of experience in digital marketing**, I combine technical skills with business strategy to create solutions that are not only functional but also optimized for growth and conversions.  
 
-- 👨‍💻 All of my services are available at [ahmedfawzy.site](https://ahmedfawzy.site/)
-
--  :technologist: I love building software solutions that solve real business problems and drive measurable results.
-
+💡 **What I do:**  
+- Develop scalable and maintainable web apps  
+- Build **eCommerce** and marketing-oriented platforms  
+- Integrate **data-driven marketing strategies** into web solutions  
+- Optimize websites for **performance and conversions**
+  
+I'm always looking for opportunities to collaborate on exciting projects and help businesses grow through smart technology solutions.  
 
 <!--- stats & Trophy (start) -->
 <p align="center">
