@@ -11,16 +11,25 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px" />
 </p>
 
-<p>
-I'm a Full-Stack Developer specialized in <strong>Laravel</strong>, <strong>React</strong>, and <strong>Next.js</strong>, building high-performance web applications that help businesses grow and succeed.<br><br>
-With <strong>4 years of experience in digital marketing</strong>, I combine technical skills with business strategy to create solutions that are not only functional but also optimized for growth and conversions.<br><br>
-💡 <strong>What I do:</strong><br>
-- Develop scalable and maintainable web apps<br>
-- Build <strong>eCommerce</strong> and marketing-oriented platforms<br>
-- Integrate <strong>data-driven marketing strategies</strong> into web solutions<br>
-- Optimize websites for <strong>performance and conversions</strong><br><br>
+<p align="left">
+I'm a <strong>Backend Developer</strong> focused on <strong>PHP</strong> and <strong>Laravel</strong>, with additional experience in <strong>React</strong>.
+<br><br>
 
-I'm always looking for opportunities to collaborate on exciting projects and help businesses grow through smart technology solutions.
+I build <strong>web applications, RESTful APIs, and database-driven systems</strong> using Laravel, MySQL, Eloquent ORM, and modern development practices. <br><br>
+
+With <strong>4 years of experience in digital marketing and eCommerce</strong>, I also have a strong understanding of business requirements, customer needs, and building technology solutions that support real business goals. <br><br>
+
+💡 <strong>What I work with:</strong><br>
+
+* PHP & Laravel<br>
+* MySQL / MariaDB & SQL<br>
+* REST APIs & Eloquent ORM<br>
+* React <br>
+* Git & GitHub<br>
+* Docker<br><br>
+
+I'm currently focused on growing as a <strong>PHP/Laravel Backend Developer</strong> and building practical, scalable, and maintainable web applications.
+
 </p>
 
 
